@@ -1,0 +1,154 @@
+<section class="about_section layout_padding ">
+    <div class="container  ">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="detail-box">
+                    <div class="heading_container">
+                        <h2>
+                            Tentang Perusahaan Kami
+                        </h2>
+                    </div>
+                    <p>
+                        Lorem Ipsum adalah bahwa ia memiliki distribusi huruf yang lebih atau kurang normal, daripada
+                        menggunakan 'Konten di sini, konten di sini', membuatnya terlihat seperti bahasa Inggris yang
+                        dapat
+                        dibaca. Banyak paket pengeditan halaman web dan web pagend sekarang menggunakan Lorem Ipsum
+                        sebagai teks
+                        model default mereka, </p>
+                    <a href="#">
+                        <span>
+                            Baca Selengkapnya
+                        </span>
+                        <img src="/storage/public/images/color-arrow.png" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="img-box">
+                    <img src="/storage/public/images/about-img.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- end about section -->
+
+
+<!-- info section -->
+<section class="info_section layout_padding2">
+    <div class="container">
+        <div class="row info_form_social_row">
+            <div class="col-md-8 col-lg-9">
+                <div class="info_form">
+                    <form action="">
+                        <input type="email" placeholder="Masukkan email Anda">
+                        <button>
+                            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-3">
+
+                <div class="social_box">
+                    <a href="">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a href="">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    <a href="">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row info_main_row">
+            <div class="col-md-6 col-lg-3">
+                <div class="info_links">
+                    <h4>
+                        Menu
+                    </h4>
+                    <div class="info_links_menu">
+                        <a href="index.html">
+                            Beranda
+                        </a>
+                        <a href="about.html">
+                            Tentang
+                        </a>
+                        <a href="chocolate.html">
+                            Cokelat
+                        </a>
+                        <a href="testimonial.html">
+                            Testimoni
+                        </a>
+                        <a href="contact.html">
+                            Hubungi Kami
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="info_insta">
+                    <h4>
+                        Instagram
+                    </h4>
+                    <div class="insta_box">
+                        <div class="img-box">
+                            <img src="/storage/public/images/insta-img.png" alt="">
+                        </div>
+                        <p>
+                            fakta yang sudah lama bahwa seorang pembaca
+                        </p>
+                    </div>
+                    <div class="insta_box">
+                        <div class="img-box">
+                            <img src="/storage/public/images/insta-img.png" alt="">
+                        </div>
+                        <p>
+                            fakta yang sudah lama bahwa seorang pembaca
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="info_detail">
+                    <h4>
+                        Perusahaan
+                    </h4>
+                    <p class="mb-0">
+                        ketika melihat tata letaknya. Titik penggunaan Lorem Ipsum adalah bahwa ia memiliki distribusi
+                        huruf
+                        yang lebih atau kurang normal, daripada
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <h4>
+                    Hubungi Kami
+                </h4>
+                <div class="info_contact">
+                    <a href="">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <span>
+                            Lokasi
+                        </span>
+                    </a>
+                    <a href="">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                        <span>
+                            Hubungi +01 1234567890
+                        </span>
+                    </a>
+                    <a href="">
+                        <i class="fa fa-envelope"></i>
+                        <span>
+                            demo@gmail.com
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
